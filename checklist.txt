@@ -1,7 +1,11 @@
 Check List
 
 [ /] Python version checked
+        python --version Python 3.15.1
 [ /] Virtual environment (venv) activated
 [ /] Django version checked
+        --version 6.1.2
 [ /] Django development server (runserver) working
 [ /] Git remote repository configured
+    Django version 6.1.2, using settings 'config.settings'
+Starting WSGI development server at http://127.0.0.1:8000/
