@@ -1,0 +1,7 @@
+Check List
+
+[ /] Python version checked
+[ /] Virtual environment (venv) activated
+[ /] Django version checked
+[ /] Django development server (runserver) working
+[ /] Git remote repository configured
